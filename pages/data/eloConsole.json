@@ -1,0 +1,18 @@
+[
+   {
+      "type": "help",
+      "content": "commande help -> liste des commandes : <br> - educ : voir les formations <br> - exp : voir la dernière expérience <br> - info : voir les informations"
+   },
+   {
+      "type": "educ",
+      "content": "commande formation -> <br> - Titre professionnel Concepteur Développeur Informatique - 2019 <br> - Master Ergonomie et ingenierie des facteurs humains - 2016"
+   },
+   {
+      "type": "exp",
+      "content": "commande experience -> <br> Développeur front-end React à la Stime DSI groupement les Mousquetaires"
+   },
+   {
+      "type": "info",
+      "content": "commande informations -> <br> - nom : Elodie Laps <br> - profession : développeuse front-end <br> - email : elodie.ida.laps@gmail.com"
+   }
+]

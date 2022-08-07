@@ -1,0 +1,29 @@
+// @import url('https://fonts.googleapis.com/css2?family=Kanit:display=swap');
+
+$primary-color: #64ff00;
+$background-light: #FAFAFA;
+
+/*grey*/
+$grey-20: #333333;
+
+/*pink*/
+$pink-50: #ff0066;
+$pink-40: #cc0052;
+
+$font-thin: 100;
+$font-regular: 400;
+
+
+// $font-kanit-sans: 'Kanit',
+//   sans-serif;
+
+:export {
+  primaryColor: $primary-color;
+  backgroundLight: $background-light;
+  // fontKanitSans: $font-kanit-sans;
+  fontRegular: $font-regular;
+  fontThin: $font-thin;
+  pink50: $pink-50;
+  pink40: $pink-40;
+  grey20: $grey-20;
+}
